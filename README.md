@@ -15,14 +15,19 @@
 
 ## 👨‍💻 About Me
 
-I'm a Computer Engineering undergraduate at **Toronto Metropolitan University**, with a strong interest in embedded systems, digital design, and software engineering.
+I'm a Computer Engineering undergraduate at Toronto Metropolitan University with a strong interest in machine learning, digital hardware design, and embedded systems.
 
-I enjoy working on projects that combine hardware and software, whether that's developing FPGA-based processors, programming microcontrollers, or building applications that solve real-world problems.
+I've always enjoyed mathematics and the problem-solving that comes with it. That interest naturally carries over into engineering, especially when exploring how computers work at the hardware level and how mathematical concepts can be applied to machine learning.
+
+I enjoy working on projects that challenge me to understand both the theory behind a system and how to implement it in practice.
+
 
 - 🎓 Pursuing a **B.Eng. in Computer Engineering**
-- 🔭 Currently developing an **RFID-Based Smart Inventory System**
-- ⚡ Interested in **FPGA Design, Embedded Systems, and Computer Architecture**
-- 🌱 Continuously learning new technologies and expanding my engineering skills
+- 🧠 Interested in Machine Learning, AI, and Mathematical Modeling
+- ⚙️ Fascinated by Digital Logic, FPGA Design, and Computer Architecture
+- 🔌 Enjoy building projects involving Microcontrollers and Embedded Systems
+- 📐 Love Mathematics, Algorithms, and Problem-Solving
+- 🚀 Always looking to learn, experiment, and build something new
 - 📍 Based in **Toronto, Canada**
 
 ---
