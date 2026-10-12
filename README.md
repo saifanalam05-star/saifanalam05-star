@@ -7,8 +7,6 @@
 
 **Embedded Systems • Digital Hardware Design • Software Development**
 
-*Building things that bridge the gap between hardware and software.*
-
 </div>
 
 ---
