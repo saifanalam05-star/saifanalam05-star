@@ -13,7 +13,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a Computer Engineering undergraduate at Toronto Metropolitan University with a strong interest in machine learning, digital hardware design, and embedded systems.
+I'm a 3rd year Computer Engineering undergraduate at Toronto Metropolitan University with a strong interest in machine learning, digital hardware design, and embedded systems.
 
 I've always enjoyed mathematics and the problem-solving that comes with it. That interest naturally carries over into engineering, especially when exploring how computers work at the hardware level and how mathematical concepts can be applied to machine learning.
 
